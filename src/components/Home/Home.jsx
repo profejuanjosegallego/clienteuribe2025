@@ -5,6 +5,7 @@ export function Home(){
     return(
 
         <>
+         <div className="container  mt-5 d-flex flex-column justify-content-center align-items-center"style={{ color: "#3E2723" }}><h1> Registrar Proveedor</h1></div>
 
             <section className="banner">
 
@@ -16,10 +17,10 @@ export function Home(){
                 <section className="row p-5">
                     <div className="col-12 col-md-6">
                         <h3>ProveedorAPP</h3>
-                        <img src="../../../src/assets/robot.png" alt="foto" className="img-fluid" />
+                        <img src="../../../src/assets/fondo2.png" alt="foto" className="img-fluid" />
                     </div>
                     <div className="col-12 col-md-6 align-self-center shadow p-5">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur commodi deleniti accusantium quas non vel veritatis tempore quia exercitationem architecto explicabo debitis ipsa quo consequatur earum id, ipsum cum perferendis possimus laboriosam. Veniam quo, cumque sint enim, asperiores a nobis magnam rem iste impedit fugiat quae praesentium, consequatur quisquam fugit.</p>
+                        <p>Nuestra plataforma está diseñada para optimizar la gestión de proveedores en la industria textil. Con ProveedorAPP, puedes registrar, organizar y supervisar fácilmente a todos tus proveedores, asegurando un flujo de trabajo eficiente y una cadena de suministro confiable. Conéctate con los mejores fabricantes, controla pedidos y mejora la trazabilidad de tus insumos en un solo lugar.</p>
                     </div>
                 </section>
             </section>
